@@ -1,8 +1,8 @@
 # **Practica 6: Introducción a la realidad virtual en Unity con Google VR (CardBoard)**
 * **Autores:**
-  - Abel Delgado Falcón alu0100792218@ull.edu.es
-  - Norberto García Gaspar alu0100611519@ull.edu.es
-  - Daniel Darias Sánchez alu0100783230@ull.edu.es
+  - Abel Delgado Falcón: alu0100792218@ull.edu.es
+  - Norberto García Gaspar: alu0100611519@ull.edu.es
+  - Daniel Darias Sánchez: alu0100783230@ull.edu.es
 
 
 * **Descripción:**
