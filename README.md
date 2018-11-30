@@ -16,7 +16,8 @@
   - **PowerControl**: controla si se interactua con el botón de la UI en VR y cambia el estado booleano del poder del jugador.
   - **ViewDetector**: controla si se esta mirando al objeto y en tal caso, dispara el evento de vibración.
   
-  * Debido a que la aplicación se implementa en android y en la versión de ordenador Google VR no funciona como se espera, no se han realizado gifs, pero se ha puesto una captura a modo de recordatorio.
+  
+* Debido a que la aplicación se implementa en android y en la versión de ordenador Google VR no funciona como se espera, no se han realizado gifs, pero se ha puesto una captura a modo de recordatorio.
     - Los objetos A (objetos que muere / desaparecen) son los esqueletos, estos tienen una animación de movimiento y de muerte.
     - Los objetos B (cápsulas rojas) vibran cuando se dispara el evento.
     - Los objetos C (cuadrados amarillos) disparan el evento de vibración cuando se les mira en RV. 
